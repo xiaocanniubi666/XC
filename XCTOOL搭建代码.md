@@ -17,6 +17,9 @@ pkg install libc++
 pkg install git
 ```
 ```
+rm -rf $HOME/XC
+```
+```
 git clone https://github.com/xiaocanniubi666/XC.git
 ```
 ```
